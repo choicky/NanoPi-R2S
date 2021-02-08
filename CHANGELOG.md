@@ -1,5 +1,5 @@
 ## 20210208
-* just for testing github actions.
+* 测试 github action 自动编译
 
 ## 20210206
 * 开机挂载 Docker 资料分区
